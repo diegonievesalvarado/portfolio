@@ -76,3 +76,27 @@ CragScore demonstrates component-driven UI, state-based filtering, client-side r
 - npm run dev
 - Then open: http://localhost:5173
 ```
+##  Purpose
+
+This portfolio was built to:
+- Showcase real-world projects with live demos
+- Demonstrate clean front-end architecture
+- Highlight engineering decision-making
+- Support applications for Front-End Developer, Software Engineer, and Data Engineering–adjacent roles
+
+---
+
+##  Future Improvements
+
+- Add additional project case studies
+- Expand project write-ups with design decisions
+- Optional backend integration for dynamic content
+
+---
+
+##  Author
+
+**Diego Nieves-Alvarado**  
+Front-End Developer | Software Engineer  
+📫 diegonieves98@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/diego-nieves-alvarado/
