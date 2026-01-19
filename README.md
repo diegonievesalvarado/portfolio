@@ -82,7 +82,7 @@ This portfolio was built to:
 - Showcase real-world projects with live demos
 - Demonstrate clean front-end architecture
 - Highlight engineering decision-making
-- Support applications for Front-End Developer, Software Engineer, and Data Engineering–adjacent roles
+- Support applications for Front-End Developer, Software Engineer, and Data Engineering roles
 
 ---
 
