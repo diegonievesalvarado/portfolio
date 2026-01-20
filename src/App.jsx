@@ -233,11 +233,12 @@ export default function App() {
               
             </a>
 
-            <a className="projCard" href="https://github.com/YOUR_GITHUB" target="_blank" rel="noreferrer">
-              <div className="projThumb mutedThumb">Next Project</div>
+            <a className="projCard" href="https://portfolio-ruddy-ten-27.vercel.app/" target="_blank" rel="noreferrer">
+              <div className="projThumb mutedThumb">Portfolio Website</div>
               <div className="projMeta">
-                <div className="projName">Coming soon</div>
-                <div className="projDesc">Add another UI piece (API dashboard, landing page, etc.)</div>
+                <div className="projName">Portfolio</div>
+                <div className="projDesc">React-based portfolio showcasing production-grade UI, data-driven projects, and engineering-focused case studies.
+                </div>
               </div>
             </a>
 
