@@ -233,7 +233,7 @@ export default function App() {
               
             </a>
 
-            <a className="projCard" href="https://portfolio-ruddy-ten-27.vercel.app/" target="_blank" rel="noreferrer">
+            <a className="projCard" href="https://github.com/diegonievesalvarado/portfolio" target="_blank" rel="noreferrer">
               <div className="projThumb mutedThumb">Portfolio Website</div>
               <div className="projMeta">
                 <div className="projName">Portfolio</div>
